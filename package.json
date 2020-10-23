@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/tesssapierce/Note-Taker-Application-Node-JS-Express/issues"
   },
-  "homepage": "https://github.com/tesssapierce/Note-Taker-Application-Node-JS-Express#readme"
+  "homepage": "https://github.com/tesssapierce/Note-Taker-Application-Node-JS-Express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
